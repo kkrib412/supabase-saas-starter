@@ -70,3 +70,6 @@ Fill out `.env.local` with your keys, then run the app and push the DB schema.
 ## License
 
 MIT
+
+
+Outcome: cuts initial SaaS setup time by shipping auth, payments, and database wiring from Day 1.
